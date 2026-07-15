@@ -1,0 +1,12 @@
+Las dos primeras tareas que realizaría son:
+
+1. Permitir que los ciudadanos registren una incidencia.
+2. Enviar una alerta al coordinador cuando llegue un nuevo reporte.
+
+Son las más importantes porque permiten recibir la información y dar inicio al seguimiento de los casos.
+
+Una tarea se considera terminada cuando:
+
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git y publicada en el repositorio.
