@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve un arreglo con todos los reportes registrados mediante la ruta POST. Cada reporte incluye un identificador, el tipo y la descripción enviados por el usuario.
