@@ -1,0 +1,1 @@
+Se realizó una prueba de la ruta POST /registro enviando un objeto JSON con un nombre y un mensaje. El servidor respondió con un objeto JSON confirmando que los datos fueron recibidos correctamente, mostrando el estado, el nombre y el mensaje enviados.
