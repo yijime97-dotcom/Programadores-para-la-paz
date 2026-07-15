@@ -1,0 +1,11 @@
+Automatización usando n8n o Telegram:
+
+Evento:
+Cuando una nueva causa es registrada en la plataforma.
+
+Acción:
+El sistema envía automáticamente una notificación indicando:
+"Nueva causa creada en la plataforma Petición en 3 Clics".
+
+Información que no debe enviarse:
+No se deben enviar cédulas, teléfonos, direcciones, contraseñas, tokens, claves API ni información privada de los usuarios.
