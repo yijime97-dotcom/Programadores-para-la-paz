@@ -1,0 +1,8 @@
+Ruta /:
+Al ingresar a esta dirección el servidor responde con el mensaje "Servidor activo", indicando que funciona correctamente.
+
+Ruta /saludo:
+Esta ruta muestra el mensaje "Hola comunidad" cuando es visitada desde el navegador.
+
+Ruta /mensaje/juan:
+Esta ruta recibe el nombre enviado en la dirección web y responde con un saludo personalizado.
